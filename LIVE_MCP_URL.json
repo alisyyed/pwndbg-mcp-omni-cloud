@@ -1,8 +1,8 @@
 {
-  "status": "BOOTING",
+  "status": "LIVE",
   "engine": "pwndbg",
   "title": "pwndbg (pwndbg) Omni-Nexus",
-  "mcp_url": "",
-  "gui_url": "",
-  "updated_at": "2026-11-21T12:05:26Z"
+  "mcp_url": "https://pricing-documentation-blowing-sites.trycloudflare.com/mcp",
+  "gui_url": "https://pricing-documentation-blowing-sites.trycloudflare.com/",
+  "updated_at": "2026-11-21T12:05:54Z"
 }
